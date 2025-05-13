@@ -1,0 +1,14 @@
+C:\Users\KIIT\C-SHARP\TaskManagerApp\bin\Debug\net9.0\TaskManagerApp.exe
+C:\Users\KIIT\C-SHARP\TaskManagerApp\bin\Debug\net9.0\TaskManagerApp.deps.json
+C:\Users\KIIT\C-SHARP\TaskManagerApp\bin\Debug\net9.0\TaskManagerApp.runtimeconfig.json
+C:\Users\KIIT\C-SHARP\TaskManagerApp\bin\Debug\net9.0\TaskManagerApp.dll
+C:\Users\KIIT\C-SHARP\TaskManagerApp\bin\Debug\net9.0\TaskManagerApp.pdb
+C:\Users\KIIT\C-SHARP\TaskManagerApp\obj\Debug\net9.0\TaskManagerApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KIIT\C-SHARP\TaskManagerApp\obj\Debug\net9.0\TaskManagerApp.AssemblyInfoInputs.cache
+C:\Users\KIIT\C-SHARP\TaskManagerApp\obj\Debug\net9.0\TaskManagerApp.AssemblyInfo.cs
+C:\Users\KIIT\C-SHARP\TaskManagerApp\obj\Debug\net9.0\TaskManagerApp.csproj.CoreCompileInputs.cache
+C:\Users\KIIT\C-SHARP\TaskManagerApp\obj\Debug\net9.0\TaskManagerApp.dll
+C:\Users\KIIT\C-SHARP\TaskManagerApp\obj\Debug\net9.0\refint\TaskManagerApp.dll
+C:\Users\KIIT\C-SHARP\TaskManagerApp\obj\Debug\net9.0\TaskManagerApp.pdb
+C:\Users\KIIT\C-SHARP\TaskManagerApp\obj\Debug\net9.0\TaskManagerApp.genruntimeconfig.cache
+C:\Users\KIIT\C-SHARP\TaskManagerApp\obj\Debug\net9.0\ref\TaskManagerApp.dll
